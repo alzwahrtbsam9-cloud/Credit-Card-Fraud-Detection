@@ -16,6 +16,10 @@ This project develops a machine learning solution for detecting fraudulent credi
 ## Evaluation Results
 The Random Forest model demonstrated the highest performance among the tested algorithms, providing a reliable balance between precision and recall for fraud identification.
 
+## Dataset Source
+The dataset used in this project can be found on Kaggle: 
+[Credit Card Fraud Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+ 
 ## Implementation
 The trained model can be utilized for real-time predictions by loading the saved artifacts. Example implementation:
 
